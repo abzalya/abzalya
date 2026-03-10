@@ -2,13 +2,13 @@
 
 I'm a London-based Electrical Engineer making the move into software development. I'm passionate about building useful things with code — and when I'm not at my keyboard, I'm usually behind a camera.
 
-I'm currently building out my [personal portfolio](https://your-website.com) — which includes a photography section if you want to see that side of me too.
+I'm currently building out my [personal portfolio](https://aamirbay.me) — which includes a photography section if you want to see that side of me too.
 
 ---
 
 ## What I'm working on
 
-**[fpl-gaffer](https://github.com/abzalamirbay/fpl-gaffer)** — A data-driven tool that helps Fantasy Premier League managers build smarter squads and maximise points. Think analytics, not guesswork.
+**[fpl-gaffer](https://github.com/abzalya/fpl-gaffer)** — A data-driven tool that helps Fantasy Premier League managers build smarter squads and maximise points. Think analytics, not guesswork.
 
 ---
 
@@ -33,6 +33,6 @@ Diving deep into the full software stack — from frontend frameworks to backend
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aamirbay)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aamirbay@me.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://aamirbay.me)
