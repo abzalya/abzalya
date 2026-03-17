@@ -1,6 +1,6 @@
 # Hi, I'm Abzal 
 
-I'm a London-based Electrical Engineer making the move into software development. I'm passionate about building useful things with code — and when I'm not at my keyboard, I'm usually behind a camera.
+I'm a London-based Electrical Engineer making the move into Data/Software Development. I'm passionate about building useful things with code — and when I'm not at my keyboard, I'm usually behind a camera.
 
 I'm currently building out my [personal portfolio](https://aamirbay.me) — which includes a photography section if you want to see that side of me too.
 
