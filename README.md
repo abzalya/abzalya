@@ -8,13 +8,14 @@ I'm currently building out my [personal portfolio](https://aamirbay.me) — whic
 
 ## What I'm working on
 
-**[fpl-gaffer](https://github.com/abzalya/fpl-gaffer)** — A data-driven tool that helps Fantasy Premier League managers build smarter squads and maximise points. Think analytics, not guesswork.
+**[fpl-gaffer](https://github.com/abzalya/fpl-gaffer)** — A data-driven tool that helps Fantasy Premier League managers build smarter squads and maximise points.
+**[Nomad](https://github.com/abzalya/Nomad)** - A chess engine. Later expand onto a behavioural bot to mimic my playstyle so you can play against me. 
 
 ---
 
 ## Currently learning
 
-Diving deep into the full software stack — from frontend frameworks to backend architecture, databases, and everything in between. Always building, always improving.
+
 
 ---
 
